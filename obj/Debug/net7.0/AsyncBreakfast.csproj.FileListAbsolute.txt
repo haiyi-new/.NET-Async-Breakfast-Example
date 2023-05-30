@@ -1,0 +1,15 @@
+D:\dotnet\AsyncBreakfast\bin\Debug\net7.0\AsyncBreakfast.exe
+D:\dotnet\AsyncBreakfast\bin\Debug\net7.0\AsyncBreakfast.deps.json
+D:\dotnet\AsyncBreakfast\bin\Debug\net7.0\AsyncBreakfast.runtimeconfig.json
+D:\dotnet\AsyncBreakfast\bin\Debug\net7.0\AsyncBreakfast.dll
+D:\dotnet\AsyncBreakfast\bin\Debug\net7.0\AsyncBreakfast.pdb
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.csproj.AssemblyReference.cache
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.AssemblyInfoInputs.cache
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.AssemblyInfo.cs
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.csproj.CoreCompileInputs.cache
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.dll
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\refint\AsyncBreakfast.dll
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.pdb
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\AsyncBreakfast.genruntimeconfig.cache
+D:\dotnet\AsyncBreakfast\obj\Debug\net7.0\ref\AsyncBreakfast.dll
